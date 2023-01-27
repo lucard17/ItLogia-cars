@@ -1,4 +1,4 @@
-<p># ItLogia. Intensive</p>
+<h4># ItLogia. Intensive</p>
 <p>Страница сделана в ходе интенсива от ItLogia.</p>
 <p>Использованы HTML, CSS, JS, БЭМ.</p>
 <p>С целью - почему бы и нет. </p>
